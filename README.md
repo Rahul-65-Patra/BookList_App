@@ -29,7 +29,7 @@ To run the BookList App on your local machine, follow these steps:
 ```bash
   npm run dev
 ```
-5. Access the BookList App in your browser at http://localhost:5173.
+5. Access the BookList App in your browser at http://localhost:5173
 ## Tech Stack
 
 **Client:** React, TailwindCSS
